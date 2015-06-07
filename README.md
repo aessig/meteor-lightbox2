@@ -41,7 +41,7 @@ Thanks to the following for their help/work:
 ### Installation
 To install, simply use the `meteor` command-line argument in your project directory:
 ```bash
-meteor add misutowolf:lightbox2
+meteor add czbaker:lightbox2
 ```
 
 <br />
